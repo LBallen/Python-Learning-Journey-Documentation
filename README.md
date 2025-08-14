@@ -2,7 +2,7 @@
 
 # Python Learning Journey
 
-This is where I plan to publicly demonstrate my learning journey in python. The goal of this is demonstrate my learning capabilities as a recent mechanical engineering graduate and not to demonstrate mastery at the level of a computer science major.
+This is where I plan to publicly demonstrate my learning journey in python. The goal of this is demonstrate my commitment to my learning capabilities as a recent mechanical engineering graduate and to lay a foundation to Applied GenAI. 
 
 Welcome to my Python Learning Journey! This repository documents my progress as I learn Python from scratch. I created this repo to:
 - Track my progress with a structured curriculum.
