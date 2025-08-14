@@ -10,13 +10,12 @@ Welcome to my Python Learning Journey! This repository documents my progress as 
 - Practice clean coding, version control, and documentation.
 
 ## Repository Structure
-- **week1_basics/**: Introductory concepts such as basic syntax, variables, and input/output.
-- **week2_control_flow/**: Decision-making in code with `if`, `elif`, and `else`.
-- **week3_loops/**: Iterations with `for` and `while` loops.
+- **week1_basics/**:**OLD** Introductory concepts such as basic syntax, variables, and input/output.
+- **week2_control_flow/**:**OLD** Decision-making in code with `if`, `elif`, and `else`.
 - **Crash Course/**: Covers a a crash course on everything Python Fundamentals
 ## How to Use This Repository
 - Explore each week’s folder to review the lessons, exercises, and projects.
-- Code examples are in the `examples/` subfolders.
+- Code examples are shown to display practice.
 
 ## Goals
 - Gain a solid foundation in Python programming.
